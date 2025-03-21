@@ -22,7 +22,7 @@ from vast amounts of code data and generating intelligent insights.
 
 Key Component -   
 
-Data Pipeline  
+• Data Pipeline  
 
 Source Identification:  
 Identify diverse sources of code
@@ -41,3 +41,35 @@ Data Pipeline Automation:
 Implement an ETL process to
 automate data collection,
 preprocessing, and storage.
+
+• Models - 
+
+Models trained to detect
+functional bugs by
+understanding code structure,
+logic, and semantics.
+Models capable of generating
+code fixes that are syntactically
+and semantically correct.  
+
+• UI & Integration - 
+
+A user-friendly interface that
+integrates with popular
+development environments (e.g.,
+IDEs, CI/CD pipelines) to provide
+real-time feedback to developers.
+
+
+• End to End Pipeline - 
+
+An end-to-end pipeline
+using agentic AI
+involves designing a
+system where AI
+agents autonomously
+perform tasks across
+the pipeline, from data
+collection to model
+deployment and
+monitoring
